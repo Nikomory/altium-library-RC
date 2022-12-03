@@ -8,6 +8,8 @@ library/debug.log
 
 # Ignore compiled library
 *.IntLib
+*.PCBLib
+*.SchLib
 
 # Ignore list and logs to Altium Designer
 *.htm
